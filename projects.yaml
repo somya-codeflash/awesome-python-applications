@@ -805,17 +805,6 @@ projects:
 
 # Ai
 
-  - name: aider
-    repo_url: https://github.com/paul-gauthier/aider
-    home_url: https://aider.chat/
-    date_added: 2024-06-29 09:36:00
-    desc: Console-based LLM pair programming tool, to edit code in your local git repository.
-    tags:
-      - ai
-      - dev
-      - linux
-      - windows
-      - mac
   - name: Aim
     repo_url: https://github.com/aimhubio/aim
     home_url: https://aimstack.io/
@@ -1632,8 +1621,8 @@ projects:
       - organization
       - linux
   - name: jrnl
-    repo_url: https://github.com/jrnl-org/jrnl
-    home_url: https://jrnl.sh/
+    repo_url: https://github.com/maebert/jrnl
+    home_url: http://jrnl.sh/
     date_added: 2019-06-12 10:00:00
     desc: Simple, ecncrypted journal application for your command line.
     tags:
@@ -4322,6 +4311,12 @@ projects:
       - dev
       - linux
       - server
+  - name: aider
+    repo_url: https://github.com/paul-gauthier/aider
+    home_url: https://aider.chat/
+    date_added: 2025-04-25 10:31:00
+    desc: Terminal-based AI pair programming assistant.
+    tags: []
 
 # Misc
 

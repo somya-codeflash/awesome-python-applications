@@ -23,10 +23,10 @@ segmentation by distribution (i.e., Docker, etc.)
 
 **Contents**
 
-1. <a href="#tag-desktop">Desktop</a> *(261)*
-    1. <a href="#tag-desktop.linux">Linux</a> *(241)*
-    1. <a href="#tag-desktop.windows">Windows</a> *(152)*
-    1. <a href="#tag-desktop.mac">Mac</a> *(153)*
+1. <a href="#tag-desktop">Desktop</a> *(260)*
+    1. <a href="#tag-desktop.linux">Linux</a> *(240)*
+    1. <a href="#tag-desktop.windows">Windows</a> *(151)*
+    1. <a href="#tag-desktop.mac">Mac</a> *(152)*
     1. <a href="#tag-desktop.console">Console</a> *(22)*
 1. <a href="#tag-mobile">Mobile</a> *(1)*
     1. <a href="#tag-mobile.android">Android</a> *(1)*
@@ -44,7 +44,6 @@ segmentation by distribution (i.e., Docker, etc.)
 
 ### <a id="tag-desktop.linux" href="#tag-desktop.linux">Linux</a>
 
-  1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Console-based LLM pair programming tool, to edit code in your local git repository. `(ai, dev, windows, mac)`
   1. **Aim** - ([Repo](https://github.com/aimhubio/aim), [Home](https://aimstack.io/), [Blog](https://aimstack.io/blog)) Aim is a self-hostable machine learning experiment tracker designed to handle 10,000s of training runs. `(ai, server, fastapi)`
   1. **Airflow** - ([Repo](https://github.com/apache/airflow), [Docs](https://airflow.apache.org/)) A platform to programmatically author, schedule and monitor workflows. `(ops, server, corp, flask)`
   1. **Algojammer** - ([Repo](https://github.com/ChrisKnott/Algojammer), [Demo](https://www.youtube.com/watch?v=9XPE4uT0AdE)) An experimental, proof-of-concept IDE to assist with algorithm-writing in a competition setting. `(editor, windows, mac, tk)`
@@ -136,7 +135,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **Invenio** - ([Repo](https://github.com/inveniosoftware/invenio), [Docs](https://invenio.readthedocs.io/)) Customizable platform for running a trusted digital repository. `(organization)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, windows, mac, gtk)`
   1. **JHBuild** - ([Repo](https://gitlab.gnome.org/GNOME/jhbuild), [Home](https://wiki.gnome.org/Projects/Jhbuild), [gh](https://github.com/GNOME/jhbuild), [Docs](https://developer.gnome.org/jhbuild/stable/getting-started.html.en)) Tool designed to ease building collections of packages, originally written to build the GNOME desktop from sources. `(build)`
-  1. **jrnl** - ([Repo](https://github.com/jrnl-org/jrnl), [Home](https://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, windows, mac, homebrew)`
+  1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, windows, mac, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, windows, mac)`
   1. **King Phisher** - ([Repo](https://github.com/securestate/king-phisher), [Docs](https://king-phisher.readthedocs.io/)) Server-based [phishing](https://en.wikipedia.org/wiki/Phishing) campaign toolkit, used to simulate real-world phishing attacks, with GTK-powered client application. `(security, windows, server)`
   1. **Komodo Edit** - ([Repo](https://github.com/Komodo/KomodoEdit), [Home](https://www.activestate.com/products/komodo-edit), [WP](https://en.wikipedia.org/wiki/Komodo_Edit)) Multi-language code editor, written in JS, Python, and C++, based on the Mozilla platform. `(editor, windows, mac, cpp, js)`
@@ -288,7 +287,6 @@ segmentation by distribution (i.e., Docker, etc.)
 
 ### <a id="tag-desktop.windows" href="#tag-desktop.windows">Windows</a>
 
-  1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Console-based LLM pair programming tool, to edit code in your local git repository. `(ai, dev, linux, mac)`
   1. **Algojammer** - ([Repo](https://github.com/ChrisKnott/Algojammer), [Demo](https://www.youtube.com/watch?v=9XPE4uT0AdE)) An experimental, proof-of-concept IDE to assist with algorithm-writing in a competition setting. `(editor, linux, mac, tk)`
   1. **Anki** - ([Repo](https://github.com/dae/anki), [Home](https://apps.ankiweb.net/), [Docs](https://apps.ankiweb.net/docs/manual.html)) Powerful desktop application for flash cards and memorization. `(education, linux, mac, qt5)`
   1. **AnuGA** - ([Repo](https://github.com/GeoscienceAustralia/anuga_core)) Advanced simulation of the shallow water equation, for modeling tsunamis, dam breaks, and floods. `(science, linux)`
@@ -353,7 +351,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **Hubble** - ([Repo](https://github.com/hubblestack/hubble), [Docs](https://hubblestack.readthedocs.io/en/latest)) Modular security compliance client, providing on-demand profile-based auditing, alerting, and reporting. Originally designed for Adobe. `(security, linux, corp)`
   1. **Hyde** - ([Repo](https://github.com/hyde/hyde), [Home](http://hyde.github.io/), [PyPI](https://pypi.org/project/hyde)) Static site generator which began as the Python counterpart to [Jekyll](https://github.com/jekyll/jekyll). `(static_site, linux, mac)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, linux, mac, gtk)`
-  1. **jrnl** - ([Repo](https://github.com/jrnl-org/jrnl), [Home](https://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, mac, homebrew)`
+  1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, mac, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, linux, mac)`
   1. **King Phisher** - ([Repo](https://github.com/securestate/king-phisher), [Docs](https://king-phisher.readthedocs.io/)) Server-based [phishing](https://en.wikipedia.org/wiki/Phishing) campaign toolkit, used to simulate real-world phishing attacks, with GTK-powered client application. `(security, linux, server)`
   1. **Komodo Edit** - ([Repo](https://github.com/Komodo/KomodoEdit), [Home](https://www.activestate.com/products/komodo-edit), [WP](https://en.wikipedia.org/wiki/Komodo_Edit)) Multi-language code editor, written in JS, Python, and C++, based on the Mozilla platform. `(editor, linux, mac, cpp, js)`
@@ -443,7 +441,6 @@ segmentation by distribution (i.e., Docker, etc.)
 
 ### <a id="tag-desktop.mac" href="#tag-desktop.mac">Mac</a>
 
-  1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Console-based LLM pair programming tool, to edit code in your local git repository. `(ai, dev, linux, windows)`
   1. **Algojammer** - ([Repo](https://github.com/ChrisKnott/Algojammer), [Demo](https://www.youtube.com/watch?v=9XPE4uT0AdE)) An experimental, proof-of-concept IDE to assist with algorithm-writing in a competition setting. `(editor, linux, windows, tk)`
   1. **Anki** - ([Repo](https://github.com/dae/anki), [Home](https://apps.ankiweb.net/), [Docs](https://apps.ankiweb.net/docs/manual.html)) Powerful desktop application for flash cards and memorization. `(education, linux, windows, qt5)`
   1. **Ansible** - ([Repo](https://github.com/ansible/ansible), [Home](https://www.ansible.com/), [Docs](https://docs.ansible.com/ansible)) Agentless, playbook-based automation. `(ops, linux, corp)`
@@ -508,7 +505,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **httpie** - ([Repo](https://github.com/jakubroztocil/httpie), [Home](https://httpie.org/), [PyPI](https://pypi.org/project/httpie)) Command-line HTTP client with JSON support, syntax highlighting, wget-like downloads, extensions, and more. `(internet, dev, linux, windows)`
   1. **Hyde** - ([Repo](https://github.com/hyde/hyde), [Home](http://hyde.github.io/), [PyPI](https://pypi.org/project/hyde)) Static site generator which began as the Python counterpart to [Jekyll](https://github.com/jekyll/jekyll). `(static_site, linux, windows)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, linux, windows, gtk)`
-  1. **jrnl** - ([Repo](https://github.com/jrnl-org/jrnl), [Home](https://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, windows, homebrew)`
+  1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, windows, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, linux, windows)`
   1. **Komodo Edit** - ([Repo](https://github.com/Komodo/KomodoEdit), [Home](https://www.activestate.com/products/komodo-edit), [WP](https://en.wikipedia.org/wiki/Komodo_Edit)) Multi-language code editor, written in JS, Python, and C++, based on the Mozilla platform. `(editor, linux, windows, cpp, js)`
   1. **LazyLibrarian** - ([Repo](https://gitlab.com/LazyLibrarian/LazyLibrarian), [Forum](https://www.reddit.com/r/LazyLibrarian), [Docs](https://lazylibrarian.gitlab.io/)) Web-based digital library organizer with support for following authors and automatic metadata retrieval. `(organization, linux)`

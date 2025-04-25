@@ -3,9 +3,14 @@
 The same 424 projects from the Awesome Python Applications list,
 but arranged in reverse-chronological order of when they were listed.
 
+## 2025-04-25
+
+  1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Terminal-based AI pair programming assistant.
+
+
+
 ## 2024-06-29
 
-  1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Console-based LLM pair programming tool, to edit code in your local git repository.
   1. **Codex** - ([Repo](https://github.com/ajslater/codex), [Demo](https://codex.sl8r.net/r/0/1)) Self-hostable comic archive browser and reader.
   1. **napari** - ([Repo](https://github.com/napari/napari), [Home](https://napari.org/), [Fund](https://numfocus.org/donate-to-napari)) A fast, interactive, multi-dimensional image viewer for annotation and analysis of large images.
   1. **Plane** - ([Repo](https://github.com/makeplane/plane), [Home](https://plane.so/)) Modern, self-hostable issue and product roadmap tracker. An alternative to JIRA, Linear, and Asana.
@@ -445,7 +450,7 @@ but arranged in reverse-chronological order of when they were listed.
 
 ## 2019-06-12
 
-  1. **jrnl** - ([Repo](https://github.com/jrnl-org/jrnl), [Home](https://jrnl.sh/)) Simple, ecncrypted journal application for your command line.
+  1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line.
 
 
 
