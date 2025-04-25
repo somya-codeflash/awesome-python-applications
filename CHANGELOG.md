@@ -1,12 +1,13 @@
 # Awesome Python Applications - Changelog
 
-The same 425 projects from the Awesome Python Applications list,
+The same 426 projects from the Awesome Python Applications list,
 but arranged in reverse-chronological order of when they were listed.
 
 ## 2025-04-25
 
   1. **aider** - ([Repo](https://github.com/paul-gauthier/aider), [Home](https://aider.chat/)) Terminal-based AI pair programming assistant.
-  1. **Beaver Habits** - ([Repo](https://github.com/daya0576/beaverhabits), [Home](https://beaverhabits.com/), [Demo](https://beaverhabits.com/demo), [Fund](https://buymeacoffee.com/ccfw6gzz28)) Self-hosted habit tracking app without "Goals".
+  1. **Beaver Habits** - ([Repo](https://github.com/daya0576/beaverhabits), [Home](https://beaverhabits.com/), [Demo](https://beaverhabits.com/demo), [Fund](https://buymeacoffee.com/henryzhu)) Self-hosted habit tracking app without "Goals".
+  1. **DollarDollar Bill Y'all** - ([Repo](https://github.com/harung1993/dollardollar), [Demo](https://ddby.finforward.xyz/), [Fund](https://buymeacoffee.com/cCFW6gZz28)) Self-hosted money management and expense splitting web service.
 
 
 

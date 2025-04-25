@@ -149,7 +149,7 @@ projects:
     repo_url: https://github.com/daya0576/beaverhabits
     home_url: https://beaverhabits.com/
     demo_url: https://beaverhabits.com/demo
-    fund_url: https://buymeacoffee.com/ccfw6gzz28
+    fund_url: https://buymeacoffee.com/henryzhu
     date_added: 2025-04-25 10:31:00
     desc: Self-hosted habit tracking app without "Goals".
     tags:
@@ -234,6 +234,16 @@ projects:
       - calver
       - corp
       - fastapi
+  - name: DollarDollar Bill Y'all
+    repo_url: https://github.com/harung1993/dollardollar
+    demo_url: https://ddby.finforward.xyz/
+    fund_url: https://buymeacoffee.com/cCFW6gZz28
+    date_added: 2025-04-25 10:35:00
+    desc: Self-hosted money management and expense splitting web service.
+    tags:
+      - internet
+      - server
+      - flask
   - name: Elixire
     repo_url: https://gitlab.com/elixire/elixire
     home_url: https://elixi.re/
