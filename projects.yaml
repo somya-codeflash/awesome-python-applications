@@ -145,6 +145,17 @@ projects:
       - internet
       - organization
       - server
+  - name: Beaver Habits
+    repo_url: https://github.com/daya0576/beaverhabits
+    home_url: https://beaverhabits.com/
+    demo_url: https://beaverhabits.com/demo
+    fund_url: https://buymeacoffee.com/ccfw6gzz28
+    date_added: 2025-04-25 10:31:00
+    desc: Self-hosted habit tracking app without "Goals".
+    tags:
+      - internet
+      - server
+      - fastapi
   - name: Bookwyrm
     repo_url: https://github.com/bookwyrm-social/bookwyrm
     home_url: https://bookwyrm.social/
